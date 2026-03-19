@@ -1,9 +1,9 @@
-rdkit-pypi>=2022.9.1
+rdkit-pypi==2022.9.5
+numpy<2
 scikit-learn>=1.2.0
 xgboost>=1.7.0
 streamlit>=1.28.0
 pandas>=1.5.0
-numpy>=1.23.0
 matplotlib>=3.6.0
 seaborn>=0.12.0
 plotly>=5.11.0
