@@ -326,6 +326,57 @@ with st.sidebar:
 
 
 # ---------------------------------------------------------------------------
+# How to Use
+# ---------------------------------------------------------------------------
+with st.expander("📖 **How to Use NephroScreen** — Click to expand", expanded=False):
+    st.markdown("""
+    <div style="line-height: 1.8; font-size: 0.92rem;">
+
+    **NephroScreen predicts whether a chemical compound is likely to protect or damage the kidneys.**
+
+    ---
+
+    #### 🔬 Quick Start (3 steps)
+    1. **Enter a compound** using any of the input methods below
+    2. **View the prediction** — green = nephroprotective, red = nephrotoxic
+    3. **Explore the details** — molecular properties, similar compounds, and confidence score
+
+    ---
+
+    #### 📥 Input Methods
+
+    | Tab | What it does | Best for |
+    |-----|-------------|----------|
+    | **SMILES Input** | Paste a SMILES string directly | Chemists who know SMILES notation |
+    | **Name Lookup** | Type a compound name (e.g. "aspirin") and we resolve it via PubChem | Everyone — just type a drug name |
+    | **Example Compounds** | Pick from pre-loaded nephroprotective and nephrotoxic compounds | Quick demo and exploration |
+    | **A. conyzoides Screening** | Pre-computed results for 32 compounds from *Ageratum conyzoides* literature | Seeing the thesis connection |
+    | **West African Plants** | Pre-computed results for 36 compounds from 12 medicinal plants used in Northern Ghana | Ethnopharmacology context |
+    | **Molecular Docking** | Pre-computed AutoDock Vina docking results against COX-2 (PDB: 5KIR) | Understanding binding mechanisms |
+    | **Batch Screening** | Upload a CSV of SMILES to screen many compounds at once | Researchers with compound libraries |
+
+    ---
+
+    #### 🎯 Understanding the Output
+
+    - **Prediction**: "Likely Nephroprotective" or "Likely Nephrotoxic" with a confidence percentage
+    - **Confidence gauge**: Visual indicator — higher confidence = model is more certain
+    - **Applicability domain**: ⚠️ warnings appear if the compound is structurally distant from training data
+    - **Similar compounds**: Top 5 most structurally similar compounds from the training set, showing what the model is basing its prediction on
+    - **Molecular descriptors**: Drug-likeness properties (Lipinski's Rule of 5, LogP, molecular weight, etc.)
+
+    ---
+
+    #### ⚠️ Important Disclaimer
+    This is a **research tool for exploratory screening**. It is not validated for clinical decision-making.
+    Predictions are based on structural similarity to known nephrotoxic and nephroprotective compounds.
+    Always validate computationally flagged compounds through experimental methods.
+
+    </div>
+    """, unsafe_allow_html=True)
+
+
+# ---------------------------------------------------------------------------
 # Compound Input
 # ---------------------------------------------------------------------------
 st.markdown("## Compound Input")
