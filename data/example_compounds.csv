@@ -1,0 +1,11 @@
+name,smiles,category,description
+Silymarin,COc1cc(ccc1O)[C@@H]1Oc2cc([C@@H]3Oc4cc(O)cc(O)c4C(=O)[C@H]3O)ccc2O[C@H]1CO,nephroprotective,Reference drug from thesis — 93% kidney protection
+N-Acetylcysteine,CC(=O)N[C@@H](CS)C(O)=O,nephroprotective,Antioxidant mucolytic with proven nephroprotection
+Quercetin,OC1=CC(=C2C(=O)C(O)=C(OC2=C1)C1=CC(O)=C(O)C=C1)O,nephroprotective,Flavonoid with strong antioxidant and anti-inflammatory activity
+Kaempferol,OC1=CC(=C2C(=O)C(O)=C(OC2=C1)C1=CC=C(O)C=C1)O,nephroprotective,Flavonoid found in many plants including A. conyzoides literature
+Curcumin,COC1=CC(=CC(=C1O)/C=C/C(=O)CC(=O)/C=C/C1=CC(OC)=C(O)C=C1)OC,nephroprotective,Turmeric polyphenol with dual antioxidant and anti-inflammatory mechanisms
+Gentamicin,"CC(C(=O)N[C@H]1[C@@H](O[C@@H]([C@@H]([C@H]1O)O)O[C@H]1[C@H](O[C@H]([C@@H]([C@H]1N)O)O[C@@H]1[C@@H](CC(N)=O)OC([C@@H]1O)O)N)N)NC",nephrotoxic,Aminoglycoside antibiotic — classic nephrotoxicant
+Cisplatin,[NH3][Pt]([NH3])(Cl)Cl,nephrotoxic,Platinum chemotherapy agent — dose-limiting nephrotoxicity
+Aristolochic Acid I,COC1=CC2=C(C=C1)C1=CC3=C(OCO3)C(=C1C(=N2)C(O)=O)[N+]([O-])=O,nephrotoxic,Herbal nephrotoxin — causes Balkan nephropathy and Chinese herb nephropathy
+Cyclosporine,"CC[C@@H]1NC(=O)[C@H](CC)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](/C=C/C)N(C)C(=O)C(C)(C)N(C)C1=O",nephrotoxic,Calcineurin inhibitor immunosuppressant — nephrotoxic at therapeutic doses
+Amphotericin B,"O[C@H]1C=CC=CC=CC=CC=CC=CC(=O)O[C@@H](C[C@H](O)C[C@H](O)CC(=O)C[C@H](O)[C@H](O)C[C@H](O)C[C@H](O[C@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)CC(O)=C1C)CC",nephrotoxic,Polyene antifungal — renal tubular toxicity

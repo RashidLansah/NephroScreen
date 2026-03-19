@@ -1,0 +1,88 @@
+compound_name,smiles,label,source,label_description
+Adefovir Dipivoxil,CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,1,review_papers,nephrotoxic
+Cefazolin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@H](NC(=O)Cn4cnnn4)[C@@H]3SC2)s1,1,review_papers,nephrotoxic
+Cefotaxime,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(COC(C)=O)CS[C@H]12)c1csc(N)n1,1,review_papers,nephrotoxic
+Cefepime,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[N+]3(C)CCCC3)CS[C@H]12)c1csc(N)n1,1,review_papers,nephrotoxic
+Chloramphenicol,O=C(NCc1ccc([N+](=O)[O-])cc1)C(O)C(Cl)Cl,1,review_papers,nephrotoxic
+Clindamycin,CCC[C@@H]1C[C@H](N(C)C)C(=O)O[C@H]1SC,1,review_papers,nephrotoxic
+Linezolid,CC(=O)NC[C@H]1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1,1,review_papers,nephrotoxic
+Meropenem,C[C@@H]1[C@@H]2[C@H](C(=O)O)N2C(=O)[C@@H]1SC1C[C@@](C)(C(=O)O)N(c2ccccc2)C1=O,1,review_papers,nephrotoxic
+Nitrofurantoin,O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1,1,review_papers,nephrotoxic
+Pyrimethamine,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1,1,review_papers,nephrotoxic
+Quinine,C=C[C@H]1C[N@@]2CC[C@H]1C[C@@H]2[C@H](O)c1ccnc2ccc(OC)cc12,1,review_papers,nephrotoxic
+Tigecycline,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3[C@@H](Cc4c(cc(NC(=O)CNC(C)(C)C)c(O)c4O)[C@]3(O)C(N)=O)C[C@@H]12,1,review_papers,nephrotoxic
+Atazanavir,COC(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)[C@H](O)C[C@@H](Cc1ccccc1)NC(=O)[C@H](NC(=O)OC)C(C)(C)C)C(C)(C)C,1,review_papers,nephrotoxic
+Darunavir,CC(C)CN1C[C@@H](O[C@@H]2OCC[C@@H]2O)C[C@H]1C(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN1CC2(CCCCC2)C[C@H]1c1ccc(NS(C)(=O)=O)cc1,1,review_papers,nephrotoxic
+Didanosine,OC[C@H]1CC[C@@H](n2cnc3c(O)ncnc32)O1,1,review_papers,nephrotoxic
+Efavirenz,O=C1Nc2ccccc2C(c2cc(Cl)cc(C3(O)C#CC3)c2)(C(F)(F)F)O1,1,review_papers,nephrotoxic
+Lopinavir,Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)C[C@H](CC(=O)NC1CCCCC1)C(=O)N[C@@H](C=O)C(C)C,1,review_papers,nephrotoxic
+Nelfinavir,O=C(N[C@H]1c2ccccc2CC1O)[C@H](Cc1ccccc1)C[C@H](O)CN1C[C@H](CO)c2cc(O)ccc21,1,review_papers,nephrotoxic
+Stavudine,Cc1cn([C@H]2C=C[C@@H](CO)O2)c(=O)[nH]c1=O,1,review_papers,nephrotoxic
+Zidovudine,Cc1cn([C@H]2CC(N=[N+]=[N-])[C@@H](CO)O2)c(=O)[nH]c1=O,1,review_papers,nephrotoxic
+Bendamustine,Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21,1,review_papers,nephrotoxic
+Cabozantinib,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)c(F)c3)c2cc1OC,1,review_papers,nephrotoxic
+Lenalidomide,Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,1,review_papers,nephrotoxic
+Pazopanib,Cc1ccc(Nc2nnc(C(C)C)c3[nH]c(C)c(-c4ccnc(N)n4)c23)cc1S(N)(=O)=O,1,review_papers,nephrotoxic
+Sorafenib,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,1,review_papers,nephrotoxic
+Temozolomide,Cn1nnc2c(C(N)=O)ncn2c1=O,1,review_papers,nephrotoxic
+Metamizole,Cc1c(N(C)CS(=O)(=O)[O-])c(=O)n(-c2ccccc2)n1C.[Na+],1,review_papers,nephrotoxic
+Niflumic Acid,O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1,1,review_papers,nephrotoxic
+Nimesulide,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,1,review_papers,nephrotoxic
+Acetazolamide,CC(=O)Nc1nnc(S(N)(=O)=O)s1,1,review_papers,nephrotoxic
+Ticlopidine,Clc1ccccc1CN1CCc2sccc2C1,1,review_papers,nephrotoxic
+Deferoxamine,CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN,1,review_papers,nephrotoxic
+Sulfasalazine,O=C(O)c1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,1,review_papers,nephrotoxic
+Omeprazole,COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1,1,review_papers,nephrotoxic
+Pantoprazole,COc1ccnc(CS(=O)c2nc3cc(OC(F)F)ccc3[nH]2)c1OC,1,review_papers,nephrotoxic
+Levofloxacin,C[C@@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,1,review_papers,nephrotoxic
+Norfloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,1,review_papers,nephrotoxic
+Moxifloxacin,COc1c(N2C[C@@H]3CCCN[C@@H]3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,1,review_papers,nephrotoxic
+Gatifloxacin,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,1,review_papers,nephrotoxic
+Alendronate,NCCCC(O)(P(=O)(O)O)P(=O)(O)O,1,review_papers,nephrotoxic
+Risedronate,O=P(O)(O)C(O)(Cc1cccnc1)P(=O)(O)O,1,review_papers,nephrotoxic
+Ibandronate,CCCN(C)CCCCCC(O)(P(=O)(O)O)P(=O)(O)O,1,review_papers,nephrotoxic
+Haloperidol,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,1,review_papers,nephrotoxic
+Lithium Citrate,O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Li+].[Li+].[Li+],1,review_papers,nephrotoxic
+Cocaine,COC(=O)[C@H]1CC[C@@H]2CC[C@H]1N2C,1,review_papers,nephrotoxic
+Methamphetamine,CNC(C)Cc1ccccc1,1,review_papers,nephrotoxic
+Heroin,CC(=O)OC1=CC=C2CCN3CC[C@@]45C1O[C@H]4[C@@H](OC(C)=O)C=C[C@H]5[C@H]3C2,1,review_papers,nephrotoxic
+Dihydroquercetin Taxifolin,O=C1c2c(O)cc(O)cc2O[C@H](c2ccc(O)c(O)c2)[C@H]1O,0,review_papers,nephroprotective
+Vitexin,O=c1cc(-c2ccc(O)cc2)oc2cc(C3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)c(O)c(O)c12,0,review_papers,nephroprotective
+Orientin,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)c(C3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)c(O)c12,0,review_papers,nephroprotective
+Silychristin,COc1cc([C@@H]2Oc3ccc([C@@H]4Oc5cc(O)cc(O)c5C(=O)[C@H]4O)cc3[C@H]2CO)ccc1O,0,review_papers,nephroprotective
+Isoliquiritigenin,O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O,0,review_papers,nephroprotective
+Formononetin,COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1,0,review_papers,nephroprotective
+Biochanin A,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1,0,review_papers,nephroprotective
+Dihydromyricetin,O=C1c2c(O)cc(O)cc2O[C@H](c2cc(O)c(O)c(O)c2)[C@H]1O,0,review_papers,nephroprotective
+Delphinidin,OC1=Cc2c(O)cc(O)cc2O[C@@H]1c1cc(O)c(O)c(O)c1,0,review_papers,nephroprotective
+Pelargonidin,OC1=Cc2c(O)cc(O)cc2O[C@@H]1c1ccc(O)cc1,0,review_papers,nephroprotective
+Cyanidin,OC1=Cc2c(O)cc(O)cc2O[C@@H]1c1ccc(O)c(O)c1,0,review_papers,nephroprotective
+Ursodeoxycholic Acid,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@@]21C,0,review_papers,nephroprotective
+Madecassoside Aglycone,C[C@H]1[C@H]2[C@H]3CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)[C@@](C)(CO)[C@@H]5CC[C@]4(C)[C@@]3(C)CC[C@@]2(C(=O)O)CC[C@H]1C,0,review_papers,nephroprotective
+Glycyrrhizic Acid Aglycone,C[C@@H]1C(=O)C=C2[C@@H]3CC(C)(C)[C@@H](O)CC[C@]3(C)C3=CC(=O)[C@@]4(C)[C@H](C(=O)O)CC[C@@]4(C)[C@@H]3CC[C@]21C,0,review_papers,nephroprotective
+Lupeol,CC(C)=C1CC[C@@]2(C)[C@H](CC[C@H]3[C@@]4(C)CC[C@@H](O)C(C)(C)[C@@H]4CC[C@@]32C)C1,0,review_papers,nephroprotective
+Squalene,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,0,review_papers,nephroprotective
+N Acetyl L Cysteine Ethyl Ester,CCOC(=O)[C@@H](CS)NC(C)=O,0,review_papers,nephroprotective
+S Adenosyl L Homocysteine,Nc1ncnc2c1ncn2[C@@H]1O[C@H](CSCC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O,0,review_papers,nephroprotective
+Alpha Tocopheryl Succinate,Cc1c(C)c2c(c(C)c1OC(=O)CCC(=O)O)CC[C@@](C)(CCC[C@H](C)CCC[C@H](C)CCCC(C)C)O2,0,review_papers,nephroprotective
+Idebenone,COC1=C(OC)C(=O)C(CCCCCCCCCCO)=C(C)C1=O,0,review_papers,nephroprotective
+Pirfenidone,Cc1ccc(=O)n(C)c1,0,review_papers,nephroprotective
+Mitoq,COC1=C(OC)C(=O)C(CCCCCCCCCC[P+](c2ccccc2)(c2ccccc2)c2ccccc2)=C(C)C1=O,0,review_papers,nephroprotective
+Lycopene Fragment,CC1=C(/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)CCCC2(C)C)C(C)(C)CCC1,0,review_papers,nephroprotective
+Zeaxanthin,CC(C=CC1=C(C)CC(O)CC1(C)C)=CC=C/C(C)=C/C=C/C=C(C)/C=C/C1=C(C)CC(O)CC1(C)C,0,review_papers,nephroprotective
+Crocetin,CC(=C/C=C/C(C)=C/C=C/C(C)=C/C=C/C(C)=C/C(=O)O)/C=C/C(=O)O,0,review_papers,nephroprotective
+Sesamin,c1cc2c3c(c1)OC[C@H]3[C@H]1Oc3cc4c(cc3O[C@@H]1C2)OCO4,0,review_papers,nephroprotective
+Sesamol,Oc1ccc2c(c1)OCO2,0,review_papers,nephroprotective
+Hydroxytyrosol,CC(O)Cc1ccc(O)c(O)c1,0,review_papers,nephroprotective
+Oleuropein Aglycone,C/C=C1\[C@H](CC=O)C(C(=O)OC)=CO[C@@H]1O,0,review_papers,nephroprotective
+6 Gingerol,CCCCC[C@@H](O)CC(=O)CCc1ccc(O)c(OC)c1,0,review_papers,nephroprotective
+6 Shogaol,CCCCC/C=C/C(=O)CCc1ccc(O)c(OC)c1,0,review_papers,nephroprotective
+Embelin,CCCCCCCCCCCC1=C(O)C(=O)C=C(O)C1=O,0,review_papers,nephroprotective
+Plumbagin,CC1=CC(=O)c2c(O)cccc2C1=O,0,review_papers,nephroprotective
+Shikonin,CC(C)=CCC1=CC(=O)c2c(O)ccc(O)c2C1=O,0,review_papers,nephroprotective
+Pyridoxamine,Cc1ncc(CO)c(CN)c1O,0,review_papers,nephroprotective
+Benfotiamine,Cc1cc(C)c(C/C(=C\OP(=O)(O)Oc2ccccc2)SC(C)([O-])C=O)nc1N.[Na+],0,review_papers,nephroprotective
+Ubiquinol,COc1c(O)c(C)c(C/C=C(\C)CCC=C(C)C)c(O)c1OC,0,review_papers,nephroprotective
+Fenoldopam,Oc1ccc2c(c1)CCc1cc(Cl)c(O)c(O)c1C2,0,review_papers,nephroprotective
+Theophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,0,review_papers,nephroprotective
+Probucol,CC(C)(C)c1cc(C(C)(C)SSC(C)(C)c2cc(C(C)(C)C)c(O)c(C(C)(C)C)c2)cc(C(C)(C)C)c1O,0,review_papers,nephroprotective

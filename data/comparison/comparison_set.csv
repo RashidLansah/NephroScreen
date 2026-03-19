@@ -1,0 +1,50 @@
+compound_name,smiles,label,label_description
+Withaferin A,CC1=C(CO)C(=O)OC(C(C)C2CCC3C4CC5OC56C(O)C=CC(=O)C6(C)C4CCC23C)C1,0,nephroprotective
+Pentamidine,N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1,1,nephrotoxic
+Mercury Methylmercury,[CH3][Hg][Cl],1,nephrotoxic
+Dofetilide,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1,1,nephrotoxic
+CHEMBL3639860,Cc1cc(Cl)ccc1C1c2c(nn(Cc3cc(=O)[nH]c4ccccc34)c2C(C)C)C(=O)N1c1cccc(Cl)c1F,1,nephrotoxic
+Ethosuximide,CCC1(C)CC(=O)NC1=O,1,nephrotoxic
+CHEMBL3687248,CC(=O)N1CCC(Cn2nc3c(c2C(C)C)C(c2ccc(Cl)cc2C)N(c2cc(Cl)ccc2C)C3=O)CC1,1,nephrotoxic
+Carisoprodol,CCCC(C)(COC(N)=O)COC(=O)NC(C)C,1,nephrotoxic
+Cocaine,COC(=O)[C@H]1CC[C@@H]2CC[C@H]1N2C,1,nephrotoxic
+CHEMBL3691692,CNC(=O)c1ccc(C)c(-n2nc3c(c2C(C)C)C(c2ccc(C(F)(F)F)cc2)N(c2cc(Cl)ccc2C)C3=O)c1,1,nephrotoxic
+Levosimendan,N#CC(/N=N/c1ccc(NN2C(=O)CCC2=O)cc1)=C1CCCC1,0,nephroprotective
+Febuxostat,Cc1cc(C#N)cc(-c2ccc(C(=O)O)cc2)c1OCC(C)C,0,nephroprotective
+Atazanavir,COC(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)[C@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@H](NC(=O)OC)C(C)(C)C)C(C)(C)C,1,nephrotoxic
+Taurine Chloramine,O=S(=O)(O)CCNCl,0,nephroprotective
+Oleanolic Acid,CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1,0,nephroprotective
+Hesperidin,COc1ccc([C@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)cc3O2)cc1O,0,nephroprotective
+Sodium Arsenite,O=[As][O-].[Na+],1,nephrotoxic
+CHEMBL3687261,COCCn1nc2c(c1C(C)C)C(c1ccc(Cl)cc1C)N(c1cc(Cl)ccc1C)C2=O,1,nephrotoxic
+CHEMBL3687283,CC(C)c1c2c(nn1CCO)C(=O)N(c1cccc(Cl)c1F)C2c1ccc(Cl)cc1Cl,1,nephrotoxic
+Lupeol,CC(C)=C1CC[C@@]2(C)[C@H](CC[C@H]3[C@@]4(C)CC[C@@H](O)C(C)(C)[C@@H]4CC[C@@]32C)C1,0,nephroprotective
+Dihydromyricetin,O=C1c2c(O)cc(O)cc2O[C@H](c2cc(O)c(O)c(O)c2)[C@H]1O,0,nephroprotective
+Zolmitriptan,CN(C)CCc1c[nH]c2ccc(CC3COC(=O)N3)cc12,1,nephrotoxic
+Flurbiprofen,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,1,nephrotoxic
+Fludarabine,Nc1nc(F)nc2c1ncn2C1OC(CO)C(O)C1O,1,nephrotoxic
+Streptomycin,CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O,1,nephrotoxic
+Lycopene,CC(C)=CCCC(C)=CC=CC(C)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C,0,nephroprotective
+Losartan Potassium,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[n-]2)cc1.[K+],1,nephrotoxic
+Baclofen,NCC(CC(=O)O)c1ccc(Cl)cc1,1,nephrotoxic
+Theophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,0,nephroprotective
+Ceftriaxone,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(O)nn3C)CS[C@H]12)c1csc(N)n1,1,nephrotoxic
+Candesartan,CCOc1nc2cccc(C3=NC4(CCCC4)C(=O)N3Cc3ccc(-c4ccccc4-c4nnn[nH]4)cc3)c2[nH]1,0,nephroprotective
+Teriflunomide,CC(O)=C(C#N)C(=O)Nc1ccc(C(F)(F)F)cc1,1,nephrotoxic
+Daidzein,O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12,0,nephroprotective
+Tolvaptan,Cc1ccccc1C(=O)Nc1ccc(C(=O)N2CCCC(O)c3cc(Cl)ccc32)c(C)c1,1,nephrotoxic
+Madecassic Acid,CC1CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5C(O)CC43C)C2C1C,0,nephroprotective
+Sulfonamide Sulfadiazine,Nc1ccc(S(=O)(=O)Nc2ccncn2)cc1,1,nephrotoxic
+Tacrolimus,C=CC[C@H]1/C=C(\C)[C@@H](O[C@H]2OC(C)[C@@H](O)[C@@](C)(O)O2)[C@@H](C)C(=O)C(=O)N2CCCC[C@@H]2C(=O)O[C@@H](OC)C[C@H](OC)CC1=O,1,nephrotoxic
+CHEMBL1581949,COc1ccc(-c2csc(NC(=O)c3ccccc3NS(=O)(=O)c3ccc(F)c(F)c3)n2)cc1,1,nephrotoxic
+Puromycin,CN(C)c1ncnc2c1ncn2[C@@H]1O[C@H](CO[C@H]2OC[C@H](N)[C@@H]2O)[C@@H](O)[C@H]1O,1,nephrotoxic
+Cilastatin,CC(C)C(/C=C/C1CC1)CC(=O)N[C@@H](CCSCC1CC1)C(=O)O,0,nephroprotective
+Esomeprazole Magnesium,COc1ccc2[n-]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1.COc1ccc2[n-]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1.[Mg+2],1,nephrotoxic
+CHEMBL3687234,Cc1cc(Cl)ccc1C1c2c(nn(CCN3C(=O)c4ccccc4C3=O)c2C(C)C)C(=O)N1c1cccc(Cl)c1F,1,nephrotoxic
+CHEMBL3687225,CCc1nc(C(N)=O)c(Nc2ccc(N3CCN(C4CCN(C)CC4)CC3)c(C)c2)nc1NC1CCOCC1,1,nephrotoxic
+Furosemide,NS(=O)(=O)c1cc(C(=O)O)cc(NCc2ccco2)c1Cl,1,nephrotoxic
+Nifedipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],0,nephroprotective
+CHEMBL3691705,CCn1cc(N2C(=O)c3nn(-c4ccccc4OC)c(C(C)C)c3C2c2ccc(Cl)cc2)cc(Cl)c1=O,1,nephrotoxic
+Zinc Gluconate,O=C([O-])[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO.O=C([O-])[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO.[Zn+2],0,nephroprotective
+Niraparib,NC(=O)c1cccc2cn(-c3ccc(C4CCCNC4)cc3)nc12,1,nephrotoxic
+Norfloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,1,nephrotoxic

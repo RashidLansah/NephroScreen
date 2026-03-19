@@ -1,0 +1,61 @@
+{
+  "best_model": "XGBoost",
+  "dataset_size": 1005,
+  "training_size": 449,
+  "external_size": 226,
+  "n_features": 2066,
+  "train_size": 359,
+  "test_size": 90,
+  "class_distribution": {
+    "nephroprotective": 353,
+    "nephrotoxic": 652
+  },
+  "all_models": {
+    "Random Forest": {
+      "accuracy": 0.8778,
+      "precision": 0.8806,
+      "recall": 0.9516,
+      "f1_score": 0.9147,
+      "roc_auc": 0.9447,
+      "cv_auc_mean": 0.94,
+      "cv_auc_std": 0.0312
+    },
+    "XGBoost": {
+      "accuracy": 0.8556,
+      "precision": 0.9016,
+      "recall": 0.8871,
+      "f1_score": 0.8943,
+      "roc_auc": 0.9476,
+      "cv_auc_mean": 0.9188,
+      "cv_auc_std": 0.0314
+    },
+    "Logistic Regression": {
+      "accuracy": 0.8778,
+      "precision": 0.8696,
+      "recall": 0.9677,
+      "f1_score": 0.916,
+      "roc_auc": 0.9073,
+      "cv_auc_mean": 0.9607,
+      "cv_auc_std": 0.0227
+    }
+  },
+  "external_validation": {
+    "accuracy": 0.7566,
+    "precision": 0.9781,
+    "recall": 0.7204,
+    "f1_score": 0.8297,
+    "roc_auc": 0.8976,
+    "n_samples": 226,
+    "n_protective": 40,
+    "n_toxic": 186
+  },
+  "best_metrics": {
+    "accuracy": 0.8556,
+    "precision": 0.9016,
+    "recall": 0.8871,
+    "f1_score": 0.8943,
+    "roc_auc": 0.9476,
+    "cv_auc_mean": 0.9188,
+    "cv_auc_std": 0.0314
+  }
+}
